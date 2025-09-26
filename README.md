@@ -30,3 +30,5 @@ python run.py --file_fold /mnt/sdb/tyh/Data_SpatialGlue/MouseEmbryo/ --save_path
  ```
 python run_ATAC.py --file_fold /mnt/sdb/tyh/Data_SpatialGlue/MISAR_mouse_E15/ --save_path /mnt/sdc/tyh/MISAR_mouse_E15_tmp4.h5ad --n_cluster 7 --radius 0.05 --datatype MISAR-seq --spatial_neighbors 18 --omics1_neighbors 5 --omics2_neighbors 5 --epoch 3000
 ``` 
+## Additional information
+The evaluation metrics used in the smiMAD are provided in [Evaluation.py](./other/Evaluation.py), and the method for generating simulated data is provided in [generate_paired_data.py](./other/generate_paired_data.py).
