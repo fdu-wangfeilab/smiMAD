@@ -1,6 +1,9 @@
 # smiMAD
 ![framework](./model.jpg)
 
+## Code Download Link
+The code used in this study is archived on Zenodo and can be accessed at [10.5281/zenodo.22931624](https://zenodo.org/records/22931624).
+
 ## Data Download Link
 The associated datasets can be accessed at https://zenodo.org/records/17207079
 
