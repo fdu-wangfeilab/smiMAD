@@ -1,5 +1,5 @@
 # smiMAD
-![framework](./smiMAD_model.jpg)
+![framework](./model.jpg)
 
 ## Data Download Link
 The associated datasets can be accessed at https://zenodo.org/records/17207079
